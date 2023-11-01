@@ -30,6 +30,7 @@
  }
  .fields{
     width: 100%;
+    height: auto;
  }
 .rows{
     display: flex;
