@@ -1,0 +1,51 @@
+#people{
+    width: 100%;
+}
+.imageandtext{
+    display: flex;
+}
+.textimage{
+    padding-top: 160px;
+    padding-left: 10px;
+    position:absolute
+}
+#loveandcare{
+    font-size: 45px;
+}
+
+#button{
+    background-color: mediumseagreen;
+    color: white;
+    padding: 15px 15px;
+    border-radius: 10px;
+}
+
+.appointment{
+    top:620px;
+    left:250px;
+    position:absolute;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    width: 60%;
+ }
+ .fields{
+    width: 100%;
+ }
+.rows{
+    display: flex;
+    padding-left: 5px;
+}
+#bookappointment{
+    padding-left: 15px;
+}
+.row1{
+    height:40px;
+    width: 230px;
+
+}
+.fieldrow2{
+padding-left: 5px;
+}
+.small{
+    width: 250px;
+}
